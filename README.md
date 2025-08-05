@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔧 Tech Stack
+
+**Languages**: Python, C, C++, Java, R  
+**ML/DL**: scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM  
+**Data & Viz**: Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**NLP**: spaCy, NLTK  
+**Cloud & Tools**: Google Cloud, Git, GitHub, Jupyter, Kaggle  
+**Web/Deployment**: HTML5, CSS3, FastAPI, Flask, Streamlit  
+**Databases**: MySQL, Oracle  
+**Other Tools**: Power BI, Anaconda, Figma  
+
+---
